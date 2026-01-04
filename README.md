@@ -28,3 +28,17 @@ respectively, and an output layer with 10 neurons representing the
 target classes.
 
 Final Accuracy: 98.36%
+
+This model uses only fully connected layers to recognise the digit so it fails in most of the practical cases
+
+This image which is written on a piece of paper by me (compressed later to 28 * 28) is recognised by the model as 5
+
+This might be due to various reasons like the digit not being centred, the texture of the page etc.
+<img width="934" height="934" alt="image" src="https://github.com/user-attachments/assets/beedda28-3243-4159-b3f2-b0b4a2080ad8" />
+
+Later I tested it with this image
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/be4b9699-d5d4-4784-b561-445815512872" />
+Which gave the result as 6
+
+This is due to the fact that MNIST Dataset contains images in grayscale but has different shades for every pixel but this image ha only black and white pixels.
+
