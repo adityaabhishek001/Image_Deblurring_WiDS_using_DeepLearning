@@ -9,19 +9,13 @@ A neural network is an machine learninng model which resembles the human brain t
 ## Model Architecture
 The hyperparameters of the model are listed below
 
-Dataset:MNIST
-
-Learning Rate:0.001
-
-Epochs:15
-
-Optimiser:Adam
-
-Loss:Cross Entropy Loss
-
-Input size:784 (28 by 28 images)
-
-Output classes: 10 (10 digits)
+- Dataset:MNIST
+- Learning Rate:0.001
+- Epochs:15
+- Optimiser:Adam
+- Loss:Cross Entropy Loss
+- Input size:784 (28 by 28 images)
+- Output classes: 10 (10 digits)
 
 The model is a fully connected neural network with the following layer
 configuration:
