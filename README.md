@@ -22,6 +22,8 @@ The following hyperparameters were used to define and train the CNN model:
 
 ## Model Architecture
 
+The model is trained on the CIFAR-10 Dataset.
+
 The model is a Convolutional Neural Network (CNN) with the following structure:
 
 - **Convolutional Layers:** Two convolutional layers with 3×3 kernels and
