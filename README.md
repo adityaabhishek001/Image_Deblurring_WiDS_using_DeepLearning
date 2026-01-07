@@ -1,4 +1,4 @@
-## SRCNN (Super-Resolution Convolutional Neural Network)
+# SRCNN (Super-Resolution Convolutional Neural Network)
 
 There are many ways to upscale an image like:
 - Nearest Neighbour Interpolation
