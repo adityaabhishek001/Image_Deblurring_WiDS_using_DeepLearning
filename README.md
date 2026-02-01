@@ -8,3 +8,4 @@ This repo consists of every weeks work in a branch.
 - **Week 1**: Deep Learning and Neural Networks
 - **Week 2**: Convolutionary Neural Networks
 - **Week 3**: Super Resolution Convolutionary Neural Networks(SRCNN)
+- **Week 4**: Generative Adversarial Networks(GAN)
